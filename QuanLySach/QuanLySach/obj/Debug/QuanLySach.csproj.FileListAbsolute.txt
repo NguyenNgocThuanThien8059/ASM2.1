@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+C:\Users\Lenovo\source\repos\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+C:\Users\Lenovo\source\repos\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+C:\Users\Lenovo\source\repos\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+C:\Users\Lenovo\source\repos\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
